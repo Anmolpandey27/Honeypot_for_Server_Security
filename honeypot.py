@@ -102,3 +102,5 @@ def main():
     get_socket_con.close()
 if __name__ == "__main__":
     main()
+
+#@copyright -- Anmol Pandey
